@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav1015&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav1015" /> </p>
 
-- 💬 Ask me about **react,node**
+- 💬 Ask me about **React js,Node js,Python**
 
-- 📫 How to reach me <a  href="https://www.linkedin.com/in/vaibhav-a-0b7562228/" target="_blank"><span>**linkedin Profile**</span></a>
+- 📫 How to reach me <a  href="https://www.linkedin.com/in/vaibhav-a-0b7562228/" target="_blank"><span>**LinkedIn Profile**</span></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

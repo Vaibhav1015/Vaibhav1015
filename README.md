@@ -5,12 +5,12 @@
 
 - 💬 Ask me about **React js,Node js,Python**
 
-- 📫 How to reach me <a  href="https://www.linkedin.com/in/vaibhav-a-0b7562228/" target="_blank"><span>**Click Me**</span></a>
+- 📫 How to reach me <a  href="https://www.linkedin.com/in/vaibhav-andhale/" target="_blank"><span>**Click Me**</span></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vaibhav andhale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav andhale" height="30" width="40" /></a>
-<a href="https://instagram.com/__.vaibhav.__01_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.vaibhav.__01_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaibhav-andhale/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav andhale" height="30" width="40" /></a>
+<a href="https://instagram.com/__.vaibhav.__01_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.vaibhav.__01_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

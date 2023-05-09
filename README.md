@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav1015&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav1015" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav1015" alt="vaibhav1015" /></a> </p>
-
 - 💬 Ask me about **react,node**
 
-- 📫 How to reach me **https://www.linkedin.com/in/vaibhav-a-0b7562228/**
+- 📫 How to reach me <a  href="https://www.linkedin.com/in/vaibhav-a-0b7562228/" target="_blank"><span>**linkedin Profile**</span></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
